@@ -1,0 +1,9 @@
+[submodule "wlt"]
+	path = wlt
+	url = https://github.com/DLighTer/-
+[submodule "fdy"]
+	path = fdy
+	url = https://github.com/IGFeng/Feng
+[submodule "lpw"]
+	path = lpw
+	url = https://github.com/Takumi12138/php

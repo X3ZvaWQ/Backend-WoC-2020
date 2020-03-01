@@ -7,3 +7,12 @@
 [submodule "lpw"]
 	path = lpw
 	url = https://github.com/Takumi12138/php
+[submodule "ctt"]
+	path = ctt
+	url = https://gitee.com/chentangtang7/liuyan.git
+[submodule "lq"]
+	path = lq
+	url = https://github.com/WORTY486/a-simple-practice-gogogo-2
+[submodule "fdy2"]
+	path = fdy2
+	url = https://github.com/IGFeng/laravel-messageboard

@@ -16,3 +16,6 @@
 [submodule "fdy2"]
 	path = fdy2
 	url = https://github.com/IGFeng/laravel-messageboard
+[submodule "jc"]
+	path = jc
+	url = https://github.com/matrix72c/messageboard
